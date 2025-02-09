@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    
+    <!-- Package Information -->
+    <PackageId>Paddies.Package.Demo</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Luke Padiachy</Authors>
+    <Product>DevPredictions</Product>
+    <Description>A fun package that generates random deadpool-themed fortune predictions!</Description>
+    <PackageTags>fortun,predictions,marvel,fun,demo</PackageTags>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaddiesPackage", "PaddiesPackage.csproj", "{BAF85394-6DAC-D4F1-262D-F4284F9C1969}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaddyPredictionsTest", "..\PaddyPredictionsTest\PaddyPredictionsTest.csproj", "{672976B5-DAA6-4738-B0A9-A61CD32094E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAF85394-6DAC-D4F1-262D-F4284F9C1969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF85394-6DAC-D4F1-262D-F4284F9C1969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF85394-6DAC-D4F1-262D-F4284F9C1969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF85394-6DAC-D4F1-262D-F4284F9C1969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{672976B5-DAA6-4738-B0A9-A61CD32094E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{672976B5-DAA6-4738-B0A9-A61CD32094E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{672976B5-DAA6-4738-B0A9-A61CD32094E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{672976B5-DAA6-4738-B0A9-A61CD32094E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96CC11AA-14A2-4434-A567-34FAB857D7B1}
+	EndGlobalSection
+EndGlobal
