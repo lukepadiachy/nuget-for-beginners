@@ -52,7 +52,7 @@ Feel free to:
 
 If you found this guide helpful, please consider:
 
- [![LinkedIn](https://img.shields.io/badge/Share-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/shareArticle?title=NuGet%20for%20Beginners&url=https://github.com/your-username/your-repo)
-[![X](https://img.shields.io/badge/Share-X-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20out%20this%20NuGet%20guide%20for%20beginners!%20https://github.com/your-username/your-repo)
-[![Facebook](https://img.shields.io/badge/Share-Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/your-username/your-repo)
-[![WhatsApp](https://img.shields.io/badge/Share-WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?text=Check%20out%20this%20NuGet%20guide%20for%20beginners!%20https://github.com/your-username/your-repo)
+ [![LinkedIn](https://img.shields.io/badge/Share-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/shareArticle?title=NuGet%20for%20Beginners&url=https://github.com/lukepadiachy/nuget-for-beginners)
+[![X](https://img.shields.io/badge/Share-X-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20out%20this%20NuGet%20guide%20for%20beginners!%20https://github.com/lukepadiachy/nuget-for-beginners/your-repo)
+[![Facebook](https://img.shields.io/badge/Share-Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/lukepadiachy/nuget-for-beginners)
+[![WhatsApp](https://img.shields.io/badge/Share-WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?text=Check%20out%20this%20NuGet%20guide%20for%20beginners!%20https://github.com/lukepadiachy/nuget-for-beginners)
